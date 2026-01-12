@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Leandro",
+        "telefono": "934118335",
+        "correo": "araya.leandro@gmail.com",
+        "direccion": "Quintero"
+    },
+    {
+        "nombre": "Leandro",
+        "telefono": "977668251",
+        "correo": "larayam@usm.cl",
+        "direccion": "Quilpue"
+    },
+    {
+        "nombre": "Jose",
+        "telefono": "987654321",
+        "correo": "jose@gmail.com",
+        "direccion": "Valparaiso"
+    }
+]
